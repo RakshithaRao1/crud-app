@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Ramya",
+      "username": "ramya",
+      "email": "ramya@gmail.com",
+      "phone": "123456789",
+      "id": 1
+    },
+    {
+      "name": "Rakshitha RaoV ",
+      "username": "rakshitha",
+      "email": "rakshu398@gmail.com",
+      "phone": "123456777",
+      "id": 2
+    },
+    {
+      "name": "ms dhoni",
+      "username": "dhonims",
+      "email": "dhoni@gmail.com",
+      "phone": "123457890",
+      "id": 3
+    },
+    {
+      "name": "virat ",
+      "username": "virat kohli",
+      "email": "virat@gmail.com",
+      "phone": "87638393737378",
+      "id": 4
+    }
+  ]
+}
